@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingleActivity</string>
+    <string name="hello_blank_fragment">Contact Fragment</string>
+</resources>
